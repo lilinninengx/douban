@@ -1,0 +1,349 @@
+{
+  "count": 5,
+  "start": 0,
+  "total": 27,
+  "subjects": [
+    {
+      "rating": {
+        "max": 10,
+        "average": 8.2,
+        "stars": "40",
+        "min": 0
+      },
+      "genres": [
+        "动作",
+        "犯罪"
+      ],
+      "title": "湄公河行动",
+      "casts": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1274319/",
+          "avatars": {
+            "small": "https://img1.doubanio.com/img/celebrity/small/49047.jpg",
+            "large": "https://img1.doubanio.com/img/celebrity/large/49047.jpg",
+            "medium": "https://img1.doubanio.com/img/celebrity/medium/49047.jpg"
+          },
+          "name": "张涵予",
+          "id": "1274319"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1013782/",
+          "avatars": {
+            "small": "https://img3.doubanio.com/img/celebrity/small/1368156632.65.jpg",
+            "large": "https://img3.doubanio.com/img/celebrity/large/1368156632.65.jpg",
+            "medium": "https://img3.doubanio.com/img/celebrity/medium/1368156632.65.jpg"
+          },
+          "name": "彭于晏",
+          "id": "1013782"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1274640/",
+          "avatars": {
+            "small": "https://img1.doubanio.com/img/celebrity/small/5979.jpg",
+            "large": "https://img1.doubanio.com/img/celebrity/large/5979.jpg",
+            "medium": "https://img1.doubanio.com/img/celebrity/medium/5979.jpg"
+          },
+          "name": "孙淳",
+          "id": "1274640"
+        }
+      ],
+      "collect_count": 151958,
+      "original_title": "湄公河行动",
+      "subtype": "movie",
+      "directors": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1275075/",
+          "avatars": {
+            "small": "https://img1.doubanio.com/img/celebrity/small/1372934445.18.jpg",
+            "large": "https://img1.doubanio.com/img/celebrity/large/1372934445.18.jpg",
+            "medium": "https://img1.doubanio.com/img/celebrity/medium/1372934445.18.jpg"
+          },
+          "name": "林超贤",
+          "id": "1275075"
+        }
+      ],
+      "year": "2016",
+      "images": {
+        "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2380677316.jpg",
+        "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2380677316.jpg",
+        "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2380677316.jpg"
+      },
+      "alt": "https://movie.douban.com/subject/25815034/",
+      "id": "25815034"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 6.6,
+        "stars": "35",
+        "min": 0
+      },
+      "genres": [
+        "奇幻",
+        "冒险"
+      ],
+      "title": "圆梦巨人",
+      "casts": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1345580/",
+          "avatars": {
+            "small": "https://img1.doubanio.com/img/celebrity/small/1456108960.49.jpg",
+            "large": "https://img1.doubanio.com/img/celebrity/large/1456108960.49.jpg",
+            "medium": "https://img1.doubanio.com/img/celebrity/medium/1456108960.49.jpg"
+          },
+          "name": "鲁比·巴恩希尔",
+          "id": "1345580"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1014239/",
+          "avatars": {
+            "small": "https://img3.doubanio.com/img/celebrity/small/18250.jpg",
+            "large": "https://img3.doubanio.com/img/celebrity/large/18250.jpg",
+            "medium": "https://img3.doubanio.com/img/celebrity/medium/18250.jpg"
+          },
+          "name": "马克·里朗斯",
+          "id": "1014239"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1017902/",
+          "avatars": {
+            "small": "https://img3.doubanio.com/img/celebrity/small/2026.jpg",
+            "large": "https://img3.doubanio.com/img/celebrity/large/2026.jpg",
+            "medium": "https://img3.doubanio.com/img/celebrity/medium/2026.jpg"
+          },
+          "name": "比尔·哈德尔",
+          "id": "1017902"
+        }
+      ],
+      "collect_count": 1146,
+      "original_title": "The BFG",
+      "subtype": "movie",
+      "directors": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1054440/",
+          "avatars": {
+            "small": "https://img3.doubanio.com/img/celebrity/small/34602.jpg",
+            "large": "https://img3.doubanio.com/img/celebrity/large/34602.jpg",
+            "medium": "https://img3.doubanio.com/img/celebrity/medium/34602.jpg"
+          },
+          "name": "史蒂文·斯皮尔伯格",
+          "id": "1054440"
+        }
+      ],
+      "year": "2016",
+      "images": {
+        "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2386736909.jpg",
+        "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2386736909.jpg",
+        "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2386736909.jpg"
+      },
+      "alt": "https://movie.douban.com/subject/25875021/",
+      "id": "25875021"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 6.4,
+        "stars": "35",
+        "min": 0
+      },
+      "genres": [
+        "动作",
+        "科幻",
+        "惊悚"
+      ],
+      "title": "暗杀游戏",
+      "casts": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1356432/",
+          "avatars": {
+            "small": "https://img1.doubanio.com/img/celebrity/small/1459926701.38.jpg",
+            "large": "https://img1.doubanio.com/img/celebrity/large/1459926701.38.jpg",
+            "medium": "https://img1.doubanio.com/img/celebrity/medium/1459926701.38.jpg"
+          },
+          "name": "瓦蒂姆·提萨拉提",
+          "id": "1356432"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1356433/",
+          "avatars": {
+            "small": "https://img3.doubanio.com/img/celebrity/small/1459860677.21.jpg",
+            "large": "https://img3.doubanio.com/img/celebrity/large/1459860677.21.jpg",
+            "medium": "https://img3.doubanio.com/img/celebrity/medium/1459860677.21.jpg"
+          },
+          "name": "维奥莱塔·吉特孟斯塔雅",
+          "id": "1356433"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1156868/",
+          "avatars": {
+            "small": "https://img3.doubanio.com/img/celebrity/small/1452756153.23.jpg",
+            "large": "https://img3.doubanio.com/img/celebrity/large/1452756153.23.jpg",
+            "medium": "https://img3.doubanio.com/img/celebrity/medium/1452756153.23.jpg"
+          },
+          "name": "韦尼亚明·斯梅霍夫",
+          "id": "1156868"
+        }
+      ],
+      "collect_count": 153,
+      "original_title": "Мафия: Игра на выживание",
+      "subtype": "movie",
+      "directors": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1356430/",
+          "avatars": {
+            "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+            "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+            "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+          },
+          "name": "萨里·奥德赛耶",
+          "id": "1356430"
+        }
+      ],
+      "year": "2016",
+      "images": {
+        "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2388681695.jpg",
+        "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2388681695.jpg",
+        "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2388681695.jpg"
+      },
+      "alt": "https://movie.douban.com/subject/26628380/",
+      "id": "26628380"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 0,
+        "stars": "00",
+        "min": 0
+      },
+      "genres": [
+        "喜剧",
+        "爱情"
+      ],
+      "title": "爱上处女座",
+      "casts": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1275981/",
+          "avatars": {
+            "small": "https://img1.doubanio.com/img/celebrity/small/26018.jpg",
+            "large": "https://img1.doubanio.com/img/celebrity/large/26018.jpg",
+            "medium": "https://img1.doubanio.com/img/celebrity/medium/26018.jpg"
+          },
+          "name": "萧蔷",
+          "id": "1275981"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1313048/",
+          "avatars": {
+            "small": "https://img3.doubanio.com/img/celebrity/small/1465005209.61.jpg",
+            "large": "https://img3.doubanio.com/img/celebrity/large/1465005209.61.jpg",
+            "medium": "https://img3.doubanio.com/img/celebrity/medium/1465005209.61.jpg"
+          },
+          "name": "贺刚",
+          "id": "1313048"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1318120/",
+          "avatars": {
+            "small": "https://img1.doubanio.com/img/celebrity/small/42289.jpg",
+            "large": "https://img1.doubanio.com/img/celebrity/large/42289.jpg",
+            "medium": "https://img1.doubanio.com/img/celebrity/medium/42289.jpg"
+          },
+          "name": "高天",
+          "id": "1318120"
+        }
+      ],
+      "collect_count": 61,
+      "original_title": "爱上处女座",
+      "subtype": "movie",
+      "directors": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1038428/",
+          "avatars": {
+            "small": "https://img3.doubanio.com/img/celebrity/small/54886.jpg",
+            "large": "https://img3.doubanio.com/img/celebrity/large/54886.jpg",
+            "medium": "https://img3.doubanio.com/img/celebrity/medium/54886.jpg"
+          },
+          "name": "刘观伟",
+          "id": "1038428"
+        }
+      ],
+      "year": "2016",
+      "images": {
+        "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2388635693.jpg",
+        "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2388635693.jpg",
+        "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2388635693.jpg"
+      },
+      "alt": "https://movie.douban.com/subject/26854554/",
+      "id": "26854554"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 5.5,
+        "stars": "30",
+        "min": 0
+      },
+      "genres": [
+        "喜剧",
+        "爱情"
+      ],
+      "title": "从你的全世界路过",
+      "casts": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1274235/",
+          "avatars": {
+            "small": "https://img3.doubanio.com/img/celebrity/small/805.jpg",
+            "large": "https://img3.doubanio.com/img/celebrity/large/805.jpg",
+            "medium": "https://img3.doubanio.com/img/celebrity/medium/805.jpg"
+          },
+          "name": "邓超",
+          "id": "1274235"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1275542/",
+          "avatars": {
+            "small": "https://img1.doubanio.com/img/celebrity/small/21559.jpg",
+            "large": "https://img1.doubanio.com/img/celebrity/large/21559.jpg",
+            "medium": "https://img1.doubanio.com/img/celebrity/medium/21559.jpg"
+          },
+          "name": "白百何",
+          "id": "1275542"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1276051/",
+          "avatars": {
+            "small": "https://img3.doubanio.com/img/celebrity/small/1435567211.65.jpg",
+            "large": "https://img3.doubanio.com/img/celebrity/large/1435567211.65.jpg",
+            "medium": "https://img3.doubanio.com/img/celebrity/medium/1435567211.65.jpg"
+          },
+          "name": "杨洋",
+          "id": "1276051"
+        }
+      ],
+      "collect_count": 76312,
+      "original_title": "从你的全世界路过",
+      "subtype": "movie",
+      "directors": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1275554/",
+          "avatars": {
+            "small": "https://img3.doubanio.com/img/celebrity/small/11460.jpg",
+            "large": "https://img3.doubanio.com/img/celebrity/large/11460.jpg",
+            "medium": "https://img3.doubanio.com/img/celebrity/medium/11460.jpg"
+          },
+          "name": "张一白",
+          "id": "1275554"
+        }
+      ],
+      "year": "2016",
+      "images": {
+        "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2382076389.jpg",
+        "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2382076389.jpg",
+        "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2382076389.jpg"
+      },
+      "alt": "https://movie.douban.com/subject/26280528/",
+      "id": "26280528"
+    }
+  ],
+  "title": "正在上映的电影-北京"
+}

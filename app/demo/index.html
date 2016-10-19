@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>跨域</title>
+  <!-- 这里 link 标签请求了另一个服务器上的内容，得到了 hello world 响应内容  -->
+  <!-- <link rel="stylesheet" href="http://127.0.0.1:3000/main.css"> -->
+</head>
+<body>
+<!-- 
+  img 标签没有跨域限制，但是得不到响应内容
+  link 标签页没有跨域限制，跨域得到响应内容
+  a 标签也跨域限制
+  script
+ -->
+<!-- <img src="http://127.0.0.1:3000/a.jpg" alt=""> -->
+<!-- <a href="http://127.0.0.1:3000/b.txt">请求http://127.0.0.1:3000/b.txt</a> -->
+<!-- 
+  script 标签没有跨域限制
+    当给 script 标签指定了src 属性之后，浏览器会对该地址发起请求，
+    当请求响应成功之后，也就是拿到了响应内容了 body { background-color:skyblue; }
+    这个时候浏览器会把 body { background-color:skyblue; } 当作 JavaScript 语言去解析，所以报错了
+    这个时候，服务器的响应换成了 var foo = "bar"
+      所以，script 标签请求拿到该内容之后，当作 js 去解析没有问题
+ -->
+<!-- <script src="http://127.0.0.1:3000">
+  
+</script> -->
+<script src="my.js"></script>
+<script>
+  // 1. 创建一个 script 标签
+  // 2. 给 script 标签指定 src 属性
+  // 3. 将 script 标签放到 body 里面
+
+  // var scriptElement = document.createElement('script')
+
+  // scriptElement.src = 'http://127.0.0.1:3000?variableName=abc'
+
+  // console.log(111)
+  // 当你把 script 标签放到 DOM 中之后，并不是马上发起请求的
+  // 而且 script 指定的请求什么时候成功无法确定
+  // 也就是说响应回来的代码什么时候执行也就无法确定
+  // document.body.appendChild(scriptElement)
+
+  // 当该标签请求成功并解析执行完js代码之后。，出发自己的 load 事件
+  // 然后执行该回调函数
+  // 思考：我能不能发请求的时候，就告诉你你给我定义一个什么变量名
+  // 那么我在使用的时候就可以直接拿这个变量名来使用
+  // scriptElement.addEventListener('load', function () {
+  //   console.log(abc)
+  // })
+  // console.log(333)
+
+</script>
+</body>
+</html>
